@@ -1,6 +1,4 @@
 
-It seems like you're asking for a more polished and clear version of the text in English. Here's a revised version:
-
 This project is designed to assist you in enhancing your HTML skills. I hope it proves beneficial for your learning journey.
 
 In the main code, you'll find an image containing the code responsible for defining the coordinates of this area:
