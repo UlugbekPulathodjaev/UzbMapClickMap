@@ -1,4 +1,4 @@
-![UZBdemostrationGif](https://github.com/UlugbekPulathodjaev/UzbMapClickMap/assets/136715066/95123b9e-b818-4707-9ba9-ec05843dbd5c)
+![UZBdemostrationGif](https://github.com/UlugbekPulathodjaev/UzbMapClickMap/assets/136715066/80b87d7c-87ae-409d-b055-4addd9b8464e)
 
 # English Readme
 
